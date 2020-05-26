@@ -20,6 +20,7 @@ namespace OOP_lab_3_18_3
             }
 
             StreamWriter newFile = File.CreateText("output.txt");
+            
 
             foreach (string word in words)
             {
